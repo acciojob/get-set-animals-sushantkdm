@@ -3,7 +3,7 @@ class Animal {
 	contructor(species){
 		this.species=species;
 	}
-	makeSound(){
+	get makeSound(){
 
 	}
 }
